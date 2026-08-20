@@ -1,0 +1,10 @@
+{
+  "name": "AI JobSphere",
+  "description": "Intelligent AI-powered career navigator, job search matching engine, ATS resume optimizer, mock interview simulator, salary compensation radar, and job application tracker.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
